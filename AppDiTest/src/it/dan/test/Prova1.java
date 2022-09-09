@@ -10,6 +10,10 @@ public class Prova1 {
 		// MODIFICA UTENTE 2
 		
 		// modifica utente uno ciao pippo
+		
+		
+		int a=9;
+		int b=0;
 	}
 
 }
