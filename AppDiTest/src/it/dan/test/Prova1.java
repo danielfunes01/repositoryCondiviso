@@ -14,6 +14,8 @@ public class Prova1 {
 		
 		int a=9;
 		int b=0;
+		
+		System.out.println("papapuciano");
 	}
 
 }
