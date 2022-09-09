@@ -15,7 +15,7 @@ public class Prova1 {
 		
 		int a=9;
 		int b=0;
-
+        int c=6;
 
 		System.out.println("papapuciano");
 		
