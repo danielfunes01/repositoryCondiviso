@@ -21,6 +21,8 @@ public class Prova1 {
 
 		
 		int e=8;
+		String s="";
+		int r=33;
 		
 	}
 
