@@ -21,6 +21,7 @@ public class Prova1 {
 
 		
 		int e=8;
+		int r=33;
 		
 	}
 
