@@ -11,7 +11,7 @@ public class Prova1 {
 		
 		// modifica utente uno ciao pippo
 		
-
+        System.out.println("INIZIO PTIC NUOVA");
 		
 		int a=9;
 		int b=0;
@@ -19,6 +19,8 @@ public class Prova1 {
         int mod=10;
 
 		System.out.println("papapuciano");
+		
+		int e=8;
 		
 	}
 
