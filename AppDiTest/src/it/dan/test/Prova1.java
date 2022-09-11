@@ -6,7 +6,9 @@ public class Prova1 {
 		
 		System.out.println("BENVENUTO");
 		
+
         String ut2="";  
+
         int utente1=9;
         
 	}
