@@ -8,6 +8,7 @@ public class Prova1 {
 		
         String s="ciao";
         int a=9;
+      
 		
 	}
 
