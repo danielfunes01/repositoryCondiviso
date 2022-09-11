@@ -6,6 +6,7 @@ public class Prova1 {
 		
 		System.out.println("BENVENUTO");
 		
+		int ut1=8;
 
     
         
