@@ -10,7 +10,9 @@ public class Prova1 {
 
         int a=9;
 		
+
         String var2;
+
         String var1="";
         
 	}
