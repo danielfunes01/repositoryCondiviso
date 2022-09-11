@@ -6,7 +6,7 @@ public class Prova1 {
 		
 		System.out.println("BENVENUTO");
 		
-
+        int utente1=9;
         
 	}
 
