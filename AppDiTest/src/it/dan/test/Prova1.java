@@ -7,8 +7,8 @@ public class Prova1 {
 		System.out.println("BENVENUTO");
 		
         String s="ciao";
+
         int a=9;
-      
 		
 	}
 
