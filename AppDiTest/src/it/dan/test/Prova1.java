@@ -6,14 +6,7 @@ public class Prova1 {
 		
 		System.out.println("BENVENUTO");
 		
-        String s="ciao";
 
-        int a=9;
-		
-
-        String var2;
-
-        String var1="";
         
 	}
 
